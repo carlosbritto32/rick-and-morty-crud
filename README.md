@@ -6,5 +6,5 @@ This App was creating using viteJs, and ReactJs, it use the Rick And Morty API t
 ***
 A list of technologies used within the project:
 * [ViteJs](https://vitejs.dev/)
-* [ReactJs](hhttps://es.reactjs.org/)
+* [ReactJs](hhttps://reactjs.org/)
 * [The Rick And Morty API](https://rickandmortyapi.com/)
