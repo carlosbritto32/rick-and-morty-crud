@@ -1,0 +1,38 @@
+.character-list-container {
+  margin: 50px;
+  display: grid;
+  gap: 50px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 80px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.button-container p {
+  color: white;
+}
+
+.button-container button {
+  background-color: #54bab9;
+  border: none;
+  width: 70px;
+  height: 35px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.button-container button:hover {
+  color: black;
+  background-color: white;
+}
